@@ -1,0 +1,8 @@
+name: Azucraft
+main: moe.yo3explorer.azucraft.Azucraft
+version: 0.1
+author: feyris-tan
+commands:
+  basic:
+    description: Tells whether Azucraft features are enabled.
+    usage: /azucraftenabled
